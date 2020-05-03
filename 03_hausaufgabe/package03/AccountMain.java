@@ -1,4 +1,4 @@
-package test;
+package package03;
 
 import java.util.HashSet;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package test;
+package package03;
 
 public class Mittelwert implements Comparable<Mittelwert>{
 	
