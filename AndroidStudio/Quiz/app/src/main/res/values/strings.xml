@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="frage">Wieviele Pokémon gibt es?</string>
+
+    <string name="antwort_1">A: 151</string>
+    <string name="antwort_2">B: 151</string>
+    <string name="antwort_3">C: 151</string>
+    <!--> Kommentar-Test <-->
+    <string name="bild_rowlet">Ein Bild von Rowlet</string>
+
+</resources>
